@@ -29,7 +29,7 @@ git clone git@github.com:yagneshlp/bdaAssignment2.git
 ```
 Navigate to the folder and run the program 
 ```bash
-cd bdaAssignemnt2
+cd bdaAssignment2
 python3 code.py
 ```
 
