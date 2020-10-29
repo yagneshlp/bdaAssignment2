@@ -22,22 +22,28 @@ No external libraries are necessary, this is a native implementation.
 
 __To run the program:__
 
-> Clone the repo
-> cd bdaAssignemnt2
-> python3 code.py
+Clone the repo
+
+```bash 
+git clone [git@github.com:yagneshlp/bdaAssignment2.git]
+ cd bdaAssignemnt2
+ python3 code.py
+```
 
 Wait for the program to finish executing. 
-
->cd results
->ls
-
+```bash
+cd results
+ls
+```
 You can find two folders with solutions to 2 sub parts of the task. 
 
 _To view results for first part_
-> cd "part_A - L1 Frequent Categories"
-> nano patterns.txt
-
+```bash
+cd "part_A - L1 Frequent Categories"
+nano patterns.txt
+```
 _To view results for second part_
-> cd "part_B - All Frequent Categories"
-> nano patterns.txt
-
+```bash
+cd "part_B - All Frequent Categories"
+nano patterns.txt
+```
