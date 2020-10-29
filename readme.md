@@ -25,12 +25,13 @@ __To run the program:__
 Clone the repo
 
 ```bash 
-git clone [git@github.com:yagneshlp/bdaAssignment2.git]
- cd bdaAssignemnt2
- python3 code.py
+git clone <git@github.com:yagneshlp/bdaAssignment2.git>
+cd bdaAssignemnt2
+python3 code.py
 ```
 
-Wait for the program to finish executing. 
+Wait for the program to finish executing.Then
+
 ```bash
 cd results
 ls
