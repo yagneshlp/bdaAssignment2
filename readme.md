@@ -25,7 +25,10 @@ __To run the program:__
 Clone the repo
 
 ```bash 
-git clone <git@github.com:yagneshlp/bdaAssignment2.git>
+git clone git@github.com:yagneshlp/bdaAssignment2.git
+```
+Navigate to the folder and run the program 
+```bash
 cd bdaAssignemnt2
 python3 code.py
 ```
